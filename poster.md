@@ -68,7 +68,7 @@
 
     <li><a href="https://i.ibb.co/FDwVxMY/image.png" target="_blank">
         <img src="https://i.ibb.co/Df7TGQX/liminality.png" alt="liminal" style="width:30px;height:30px">
-    </a></li>
+    </a></li> 
 
     <li><a href="https://i.ibb.co/mRGjJcH/image.png" target="_blank">
         <img src="https://i.ibb.co/5Mw5K9d/guilt.png" alt="guilt" style="width:30px;height:30px">
